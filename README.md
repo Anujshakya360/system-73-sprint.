@@ -11,3 +11,5 @@ The system follows states: Available -> Borrowed.
 
 ## How to run
 Just open index.html in any browser.
+
+Team Cosmic Compilers
