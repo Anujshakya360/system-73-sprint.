@@ -1,0 +1,5 @@
+{
+  "current_status": "Available",
+  "allowed_next": ["Borrowed", "In_Repair"],
+  "rule": "Cannot borrow a book if status is already Borrowed"
+}
